@@ -1,1 +1,7 @@
-{"name":"Ganesh Iyer's Github page","tagline":"","body":"Howdy! \r\nThis is a placeholder.\r\nKindly see [http://ganeshiyer.net](http://ganeshiyer.net)","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "Ganesh Iyer's Github page",
+  "tagline": "Full stack engineer working on Big Data.",
+  "body": "---\r\n## Datascope\r\nA platform for interactively querying and visualizing massive datasets.\r\n![Datascope](http://ganeshiyer.net/github/images/datascope.gif)\r\n---",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
