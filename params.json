@@ -1,7 +1,7 @@
 {
   "name": "Ganesh Iyer's Github page",
   "tagline": "Full stack engineer working on Big Data.",
-  "body": "---\r\n## Datascope\r\nA platform for interactively querying and visualizing massive datasets.\r\n![Datascope](http://ganeshiyer.net/github/images/datascope.gif)\r\n---",
+  "body": "---\r\n## Datascope\r\nA platform for interactively querying and visualizing massive datasets.\r\n![Datascope](http://ganeshiyer.net/github/images/datascope.gif)\r\n---\r\n---\r\n## caMicroscope\r\nViewing big whole slide images and visualizing massive spatial segmentation results on them.\r\n![caMicroscope](http://ganeshiyer.net/github/images/camicroscope.gif)\r\n---\r\n---",
   "google": "",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
